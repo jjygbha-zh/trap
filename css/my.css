@@ -1,0 +1,39 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+ul,li{
+	list-style: none;
+}
+.clear:after{
+	content: "";
+  	display: table;
+  	clear: both;
+}
+.left{
+	float: left;
+}
+.right{
+	float: right;
+}
+.head{
+	height: 2.8rem;
+}
+ .mui-bar{
+	background: #afdbcc;
+}
+.mui-pull-left{
+	color: white;
+}
+.mui-bar .mui-title{
+	color: white;
+}
+.top .mui-table-view{
+	text-align: center;
+	padding: 2rem 0;
+	background: url(../img/banner-4.jpg) no-repeat;
+}
+.mui-table-view img{
+	width: 4rem;
+	height: 4rem;
+}

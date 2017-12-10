@@ -1,0 +1,150 @@
+{
+	"index.html": {
+		"resources": [
+			"img/jd-2.png",
+			"img/zt-2.jpg",
+			"fonts/mui.ttf",
+			"img/lm-1.jpg",
+			"img/banner-4.jpg",
+			"img/banner-3.jpg",
+			"img/banner-1.jpg",
+			"img/jd-3.png",
+			"img/lm-3.jpg",
+			"img/lm-6.jpg",
+			"img/lm-4.jpg",
+			"css/index.css",
+			"js/mui.min.js",
+			"img/zt-5.jpg",
+			"img/jd-1.png",
+			"img/lm-5.jpg",
+			"js/iscroll.js",
+			"css/mui.min.css",
+			"img/lm-2.jpg",
+			"img/zt-1.jpg",
+			"img/banner-2.jpg",
+			"home.html",
+			"classify.html",
+			"img/pjd.png"
+		],
+		"refer": [
+			"home.html",
+			"classify.html",
+			"my.html",
+			"route.html",
+			"tickets.html",
+			"mxlx.html",
+			"zmyry.html"
+		]
+	},
+	"home.html": {
+		"resources": [
+			"img/jd-2.png",
+			"img/zt-2.jpg",
+			"img/lm-1.jpg",
+			"img/banner-4.jpg",
+			"img/banner-3.jpg",
+			"img/banner-1.jpg",
+			"img/jd-3.png",
+			"img/lm-3.jpg",
+			"img/lm-6.jpg",
+			"img/lm-4.jpg",
+			"img/zt-5.jpg",
+			"img/jd-1.png",
+			"img/lm-5.jpg",
+			"img/lm-2.jpg",
+			"img/zt-1.jpg",
+			"img/banner-2.jpg",
+			"fonts/mui.ttf",
+			"css/index.css",
+			"js/mui.min.js",
+			"css/mui.min.css",
+			"home-zby.html"
+		],
+		"refer": [
+			"home-gny.html",
+			"home-zby.html",
+			"tickets.html",
+			"mxlx.html",
+			"zmyry.html"
+		]
+	},
+	"classify.html": {
+		"resources": [
+			"js/mui.min.js",
+			"css/mui.min.css",
+			"fonts/mui.ttf",
+			"css/classify.css",
+			"img/lm-4.jpg",
+			"img/lm-2.jpg",
+			"img/lm-1.jpg",
+			"img/lm-3.jpg"
+		]
+	},
+	"my.html": {
+		"resources": [
+			"js/mui.min.js",
+			"css/mui.min.css",
+			"css/my.css",
+			"fonts/mui.ttf",
+			"img/banner-4.jpg",
+			"img/zt-1.jpg",
+			"mySZ.html"
+		],
+		"refer": [
+			"mySZ.html"
+		]
+	},
+	"mySZ.html": {
+		"resources": [
+			"js/mui.min.js",
+			"css/mui.min.css",
+			"fonts/mui.ttf",
+			"css/mySZ.css"
+		]
+	},
+	"route.html": {
+		"resources": [
+			"js/mui.min.js",
+			"css/mui.min.css",
+			"css/route.css",
+			"img/lm-5.jpg",
+			"img/lm-6.jpg",
+			"img/lm-4.jpg",
+			"js/route.js"
+		]
+	},
+	"home-zby.html": {
+		"resources": [
+			"css/home-zby.css"
+		]
+	},
+	"tickets.html": {
+		"resources": [
+			"img/ntgy.png",
+			"img/yhy.png",
+			"img/gg.png",
+			"css/tickets.css",
+			"img/cc.png",
+			"img/tam.png",
+			"js/mui.min.js",
+			"fonts/mui.ttf",
+			"css/mui.min.css"
+		]
+	},
+	"mxlx.html": {
+		"resources": [
+			"img/pjd.png",
+			"img/sse.png",
+			"css/mxlx.css",
+			"img/nf.png"
+		]
+	},
+	"zmyry.html": {
+		"resources": [
+			"img/ntgy.png",
+			"css/zmyry.css",
+			"img/gg.png",
+			"img/cc.png"
+		]
+	}
+}

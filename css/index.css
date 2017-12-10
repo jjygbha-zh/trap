@@ -1,0 +1,196 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.mui-bar.mui-bar-nav,.mui-bar.mui-bar-tab{
+	background: #afdbcc;
+}
+.mui-bar .mui-title,.mui-bar-nav.mui-bar .mui-icon{
+	color: white;
+}
+.mui-bar-tab .mui-tab-item .mui-icon{
+	color: white;
+}
+/*.mui-off-canvas-backdrop{
+	overflow: auto;
+	/*height: 120rem;*/
+}*/
+.lmzyx,.zttj,.zby,body{
+	background:#fff;
+}
+.mui-scroll-wrapper .mui-scroll{
+	background: white;
+}
+.mui-scroll-wrapper .mui-scroll .yhxx{
+	background: #222222;
+	overflow: hidden;
+}
+head{
+	font-size: 62.5%;
+}
+ul{
+	list-style: none;
+}
+.left{
+	float: left;
+}
+.right{
+	float: right;
+}
+.clear:after{
+	content: "";
+  	display: table;
+  	clear: both;
+}
+.mui-table-view{
+	background: transparent;
+	color: white;
+	border: none;
+}
+.head{
+	height: 2.8rem;
+	
+}
+.banner img{
+	height: 9rem;
+}
+.mui-scroll ul{
+	border: none;
+	background: #222;
+}
+.m-s-o .yhxx img{
+	width: 100%;
+	background: #222;
+}
+.m-s-t{
+	height: 118rem;
+}
+.mui-scroll{
+	background: #222;
+	/*height: 100%;*/
+}
+.mui-content .m-s-t{
+	background: white;
+}
+.mui-scroll .search{
+	width: 80%;
+	margin: 0.5rem auto 0.5rem;
+/*	overflow: hidden;*/
+	height: 2rem;
+	border-radius: 0.8rem;
+	border: 1px solid #C0C0C0;
+	box-sizing: border-box;
+	padding-right: 0.6rem;
+}
+.mui-scroll .search input{
+	border: none;
+	background: transparent;
+	width: 78%;
+}
+.mui-scroll .scenicSpot{
+	background: white;
+}
+.mui-scroll .scenicSpot ul{
+	display: flex;
+	justify-content: space-around;
+}
+.mui-scroll .scenicSpot ul li img{
+	width: 100%;
+}
+.mui-scroll .scenicSpot ul li{
+	border-radius: 10px;
+	width: 50%;
+	overflow: hidden;
+}
+.mui-scroll .mui-grid-view.mui-grid-9{
+	background: white;
+	border: none;
+}
+.mui-scroll .mui-grid-view.mui-grid-9 .mui-table-view-cell{
+	border: none;
+	width: 25%;
+	box-sizing: border-box;
+}
+.mui-scroll .mui-grid-view.mui-grid-9 .mui-table-view-cell>a:not(.mui-btn){
+  color: #53a9fd;
+}
+.mui-scroll .title{
+	padding: 0.8rem;
+	border-bottom: 1px solid #ddd;
+}
+.mui-scroll .title h3{
+	color: #2AC845;
+	margin-left: 0.8rem;
+	padding-left: 0.8rem;
+	border-left: 6px solid #2AC845;
+}
+.mui-scroll .lmzyx {
+}
+.mui-scroll .lmzyx .cont .l-c-t,.mui-scroll .lmzyx .cont .l-c-b{
+	display: flex;
+	justify-content: space-between;
+	padding: 0.6rem;
+}
+.mui-scroll .lmzyx .cont .l-c-t img{
+	width: 32%;
+	height: 6rem;
+}
+.mui-scroll .lmzyx .cont .l-c-b img{
+	height: 7rem;
+	width: 48.5%;
+	padding: 0.6rem;
+}
+.mui-scroll .zttj .zttj-img{
+	padding: 0.6rem;
+}
+.mui-scroll .zttj .zttj-img .left{
+	width: 60%;
+	
+}
+.mui-scroll .zttj .zttj-img .right{
+	width: 38%;
+	height: 33.3333%;
+	box-sizing: border-box;
+	margin-bottom: 0.9rem;
+}
+.mui-scroll .zby,.mui-scroll .zby .cont{
+	background: white;
+}
+.mui-scroll .zby .cont ul{
+	background: white;
+	padding: 0.5rem;
+}
+.mui-scroll .zby .cont li{
+	float: left;
+	width: 48%;
+	box-sizing: border-box;
+	border: 1px solid #ddd;
+	padding: 0.5rem;
+}
+.mui-scroll .zby .cont .aa{
+	margin-top: -5rem;
+}
+.mui-scroll .zby .cont .bb{
+	margin-top: 0.7rem;
+}
+.mui-scroll .zby .cont .cc{
+	margin-left: 0.7rem;
+}
+.mui-scroll .zby .cont li img{
+	width: 90%;
+}
+.mui-scroll .zby .cont li>div p{
+	color: #2AC845;
+	float: left;
+	font-weight: 600;
+}
+.mui-scroll .zby .cont li button{
+	float: right;
+}
+.mui-scroll .copyright{
+	text-align: center;
+	padding: 1rem 0 2rem;
+}
+
+
+
